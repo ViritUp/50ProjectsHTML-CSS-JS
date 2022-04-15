@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catch The Naruto Character</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="screen">
+        <div class="title-wrapper">
+            <h1 class="title">Catch The Naruto Character</h1>
+        </div>
+        <button class="btn" id="start-btn">Play Game</button>
+    </div>
+
+    <div class="screen">
+        <h1 class="title sec-2">What is your "favorite" Naruto character?</h1>
+        <ul class="naruto-list">
+            <li>
+                <button class="choose-naruto-btn">
+                  <p>Naruto</p>
+                  <img src="naruto.png" alt="naruto">
+                </button>
+            </li>
+            <li>
+                <button class="choose-naruto-btn">
+                  <p>Sasuke</p>
+                  <img src="sasuke.png" alt="sasuke">
+                </button>
+            </li>
+            <li>
+                <button class="choose-naruto-btn">
+                  <p>Sasori</p>
+                  <img src="sasori.png" alt="sasori">
+                </button>
+            </li>
+            <li>
+                <button class="choose-naruto-btn">
+                  <p>Hidan</p>
+                  <img src="hidan.png" alt="hidan">
+                </button>
+            </li>
+            <li>
+                <button class="choose-naruto-btn">
+                  <p>Itachi</p>
+                  <img src="itachi.png" alt="itachi">
+                </button>
+            </li>
+        </ul>
+    </div>
+
+    <div class="screen game-container">
+        <h3 id="time">Time: 00:00</h3>
+        <h3 id="score">Score: 0</h3>
+        <h5 id="message" class="message">
+            Are you annoyed yet? <br> You are playing an impossible game!
+        </h5>
+    </div>
+    
+    <audio id="player" src="sound.mp3"></audio>
+    <div class="player-i"> 
+        <button onclick="document.getElementById('player').play()">Play</button> 
+        <button onclick="document.getElementById('player').pause()">Pause</button> 
+        <button onclick="document.getElementById('player').volume += 0.1">Vol+ </button> 
+        <button onclick="document.getElementById('player').volume -= 0.1">Vol- </button> 
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
