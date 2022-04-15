@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>50 Projects HTML CSS JS</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: rgb(29, 27, 27);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: #fff;
+            padding: 80px 120px 50px;
+        }
+        .title{
+            font-size: 60px;
+            margin-bottom: 80px;
+        }
+        .github-link{
+            position: fixed;
+            top: 40px;
+            right: 40px;
+            color: #fff;
+            text-decoration: none;
+        }
+        .github-link:hover {
+            color: rgb(215, 214, 214);
+        }
+        .projects-container{
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+        }
+        .project{
+            border-radius: 50%;
+            padding: 20px;
+            font-size: 60px;
+            background-color: #51358a;
+            color: #fff;
+            text-decoration: none;
+            width: 160px;
+            height: 160px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px;
+            font-weight: 700;
+            border: 3px solid #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="title">50 Projects HTML CSS JS</h1>
+    <a class="github-link" href="https://github.com/ViritUp/50ProjectsHTML-CSS-JS" target="_black">github.com</a>
+    <div class="projects-container"></div>
+
+
+    <script>
+        const container = document.querySelector('.projects-container');
+        const colors = [
+            '#cb4f4f',
+            '#358a71',
+            '#51358a',
+            '#8a3551',
+            '#a85b3d',
+            '#2d8d43',
+            '#2d4b8d'
+        ];
+
+        for (let i = 1; i <= 50; i++) {
+            const project = document.createElement('a');
+            project.classList.add('project');
+            project.href = `project-${i}/index.html`;
+            project.target = '_black';
+            project.innerText = i;
+            container.append(project);
+            switch (i % 7) {
+                case 1:
+                    project.style.backgroundColor = colors[0];
+                    break;
+                case 2:
+                    project.style.backgroundColor = colors[1];
+                    break;
+                case 3:
+                    project.style.backgroundColor = colors[2];
+                    break;
+                case 4:
+                    project.style.backgroundColor = colors[3];
+                    break;
+                case 5:
+                    project.style.backgroundColor = colors[4];
+                    break;
+                case 6:
+                    project.style.backgroundColor = colors[5];
+                    break;
+                case 0:
+                    project.style.backgroundColor = colors[6];
+                    break;
+            }
+        }
+
+    </script>
+</body>
+</html>
