@@ -133,6 +133,131 @@
       <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-25' target='_black'>Sticky Navbar</a></td>
       <td>Navbar changing with sckrolling page</td>
     </tr>
+    <tr>
+      <td>26</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-26' target='_black'>Double Vertical Slider</a></td>
+      <td>Vertival slider with 2 mini-sliders</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-27' target='_black'>Toast Notification</a></td>
+      <td>Notifications in corner</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-28' target='_black'>Github Profiles</a></td>
+      <td>Searcing github profiles info | <b> ⬜Peculiarities:</b><i> Working with GitHub API</i></td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-29' target='_black'>Double Click Heart</a></td>
+      <td>Liking photos with doble click  | <b> ⬜Peculiarities:</b><i> Self-made doble click event</i></td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-30' target='_black'>Auto Text Effect</a></td>
+      <td>Auto typing text animation</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-31' target='_black'>Password Generator</a></td>
+      <td>Password generator with settings</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-32' target='_black'>Good Cheap Fast</a></td>
+      <td>Selm-made toggle buttons</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-33' target='_black'>Notes App</a></td>
+      <td>Notes app with usage of local storage and marked.js for styling text | <b> ⬜Peculiarities:</b><i> Marked.js</i></td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-34' target='_black'>Animated Countdown</a></td>
+      <td>Countdown with css anitation</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-35' target='_black'>mage Carousel</a></td>
+      <td>Some kind of self-made slider</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-36' target='_black'>Hoverboard</a></td>
+      <td>Hoverboard with cool color effects</td>
+    </tr>
+     <tr>
+      <td>37</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-37' target='_black'>Pokedex</a></td>
+      <td>Creating Pokemon cards | <b> ⬜Peculiarities:</b><i> Pokemon API</i></td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-38' target='_black'>Mobile Tab Navigation</a></td>
+      <td>Some kind of slider with fade effect </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-39' target='_black'>Password Strength Background</a></td>
+      <td>Changing bg blur with entering password</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-40' target='_black'>3d Background Boxes</a></td>
+      <td>Split picture into parts</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-41' target='_black'>Verify Account Ui</a></td>
+      <td>6 inputs that switch after entering 1 num</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-42' target='_black'>Live User Filter</a></td>
+      <td>User filter and creating cards with api | <b> ⬜Peculiarities:</b><i> randomuser.me/api</i></td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-43' target='_black'>Feedback Ui Design</a></td>
+      <td>Feedback card | <b> ⬜Peculiarities:</b><i> Event delegation</i></td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-44' target='_black'>Custom Range Slider</a></td>
+      <td>Custom range slider styled for different browsers</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-45' target='_black'>Netflix Mobile Navigation</a></td>
+      <td>Cool animated navigation</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-46' target='_black'>Quiz App</a></td>
+      <td>Realization of quiz app</td>
+    </tr>
+     <tr>
+      <td>47</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-47' target='_black'>Testimonial Box Switcher</a></td>
+      <td>Testimonial kind of slider</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-48' target='_black'>Random Image Feed</a></td>
+      <td>Creating kind of gallery</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-49' target='_black'>Todo List</a></td>
+      <td>Todo list | <b> ⬜Peculiarities:</b><i> Local storage</i></td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td><a href='https://github.com/ViritUp/50ProjectsHTML-CSS-JS/tree/main/project-50' target='_black'>Naruto Catch Game</a></td>
+      <td>Creating infinite catch game | <b> ⬜Peculiarities:</b><i> Tag <b>audio</b></i></td>
+    </tr>
   </tbody>
 </table>
 
